@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e016d8ce-9def-4173-9078-68b2b966559f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_test_Regression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Project_test.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project_test_Regression.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1Q6bNmvtjstg38H6L2S2b3KfBmy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_test.py" />
+      <option name="SCRIPT_NAME" value="E:\HH\S2a\Learning system\Project\Python\Regression\Project_test_Regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,6 +81,14 @@
       <option name="presentableId" value="Default" />
       <updated>1567093955749</updated>
     </task>
+    <task id="LOCAL-00001" summary="Data loaded&#10;Zscore&#10;scatter plot">
+      <created>1567097545837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567097545837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,10 +96,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data loaded&#10;Zscore&#10;scatter plot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data loaded&#10;Zscore&#10;scatter plot" />
   </component>
 </project>
