@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e016d8ce-9def-4173-9078-68b2b966559f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Ghareeb.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_test_Regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_test_Regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_test_Regression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567097545837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Data loaded&#10;Zscore&#10;scatter plot&#10;Estimate covariance&#10;sort variables by covariance&#10;construct linear model&#10;use forward selection with linear model&#10;use cross validation with linear model">
+      <created>1567285400088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567285400088</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Data loaded&#10;Zscore&#10;scatter plot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data loaded&#10;Zscore&#10;scatter plot" />
+    <MESSAGE value="Data loaded&#10;Zscore&#10;scatter plot&#10;Estimate covariance&#10;sort variables by covariance&#10;construct linear model&#10;use forward selection with linear model&#10;use cross validation with linear model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data loaded&#10;Zscore&#10;scatter plot&#10;Estimate covariance&#10;sort variables by covariance&#10;construct linear model&#10;use forward selection with linear model&#10;use cross validation with linear model" />
   </component>
 </project>
